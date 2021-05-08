@@ -1,0 +1,201 @@
+{
+    "hi": {
+        "msg": "{{user}} saluda a todo el mundo",
+        "msgTarget": "{{user}} saluda a {{target}}",
+        "gifs": [
+            "https://nekocdn.com/images/-smUhVWMa.gif",
+            "https://nekocdn.com/images/2FnX323S.gif",
+            "https://nekocdn.com/images/XqETPav2x.gif",
+            "https://nekocdn.com/images/IdwSLJiC.gif",
+            "https://nekocdn.com/images/7bTP8yNH.gif",
+            "https://nekocdn.com/images/8niLqqtN.gif",
+            "https://nekocdn.com/images/Ck3yZHpaW.gif",
+            "https://nekocdn.com/images/s4dz_TLY.gif",
+            "https://nekocdn.com/images/XPJ_CGAw.gif",
+            "https://nekocdn.com/images/nEXsHPyN.gif",
+            "https://nekocdn.com/images/gVqc5H1g.gif",
+            "https://nekocdn.com/images/M6B4wNoP.gif",
+            "https://nekocdn.com/images/hzdDXxu_.gif",
+            "https://nekocdn.com/images/HneQ65Am.gif",
+            "https://nekocdn.com/images/UIQLXXPK.gif",
+            "https://nekocdn.com/images/AYJYPYm5.gif",
+            "https://nekocdn.com/images/MTZ3_-Mp.gif",
+            "https://nekocdn.com/images/q2s8BGcu.gif",
+            "https://nekocdn.com/images/7HhUk5fTy.gif"
+        ]
+    },
+    "kiss": {
+        "msgTarget": "{{user}} le da un beso a {{target}}",
+        "gifs": [
+            "https://nekocdn.com/images/G_ZyE-rA.gif",
+            "https://nekocdn.com/images/gCyGiHWC.gif",
+            "https://nekocdn.com/images/vs6hpx26.gif",
+            "https://nekocdn.com/images/MKkMHEf4.gif",
+            "https://nekocdn.com/images/EJkuJIA5.gif",
+            "https://nekocdn.com/images/mXvN4BDZO.gif",
+            "https://nekocdn.com/images/4Sb07sLJ.gif",
+            "https://nekocdn.com/images/nBKORJtt.gif",
+            "https://nekocdn.com/images/TPMKyWLTh.gif",
+            "https://nekocdn.com/images/EUmE6SUF.gif",
+            "https://nekocdn.com/images/rZxL_exD.gif",
+            "https://nekocdn.com/images/uBg5v6aN.gif"
+        ]
+    },
+    "slap": {
+        "msgTarget": "{{user}} le da una cachetada a {{target}}",
+        "gifs": [
+            "https://nekocdn.com/images/32ONzMpX.gif",
+            "https://nekocdn.com/images/hD6GO4jn.gif",
+            "https://nekocdn.com/images/EPCrNTUJ.gif"
+        ]
+    },
+    "punch": {
+        "msgTarget": "{{user}} le da un puñetazo a {{target}}",
+        "gifs": [
+        "https://nekocdn.com/images/yHMGJpzG.gif"
+    ]},
+    "eat": {
+        "msg": "{{user}} esta comiendo. ñom ñom",
+        "gifs": [
+        "https://nekocdn.com/images/ZHz_tubNW.gif",
+        "https://nekocdn.com/images/rt2O2zZtn.gif",
+        "https://nekocdn.com/images/Cdbsbl79Z.gif",
+        "https://nekocdn.com/images/DkAsVZKwW.gif",
+        "https://nekocdn.com/images/wAspInpzf.gif",
+        "https://nekocdn.com/images/_BXTCmWyu.gif",
+        "https://nekocdn.com/images/j2gFTBmiS.gif",
+        "https://nekocdn.com/images/Sx84KfIsq.gif",
+        "https://nekocdn.com/images/TQktywu6_.gif",
+        "https://nekocdn.com/images/bfYpbMnYC.gif",
+        "https://nekocdn.com/images/y83uRnie9.gif",
+        "https://nekocdn.com/images/_eH4MGFCK.gif",
+        "https://nekocdn.com/images/soRhyI0s9.gif",
+        "https://nekocdn.com/images/5tY2SmUiZ.gif",
+        "https://nekocdn.com/images/MCwpnrrVC.gif",
+        "https://nekocdn.com/images/xrD-VEfck.gif"
+    ]},
+    "gaming": {
+        "msg": "{{user}} esta jugando",
+        "msgTarget": "{{user}} esta jugando con {{target}}",
+        "gifs": [
+        "https://nekocdn.com/images/iaeeFyZq.gif",
+        "https://nekocdn.com/images/PO4LASk4.gif",
+        "https://nekocdn.com/images/OQ77Lkc1.gif",
+        "https://nekocdn.com/images/w8O-7R_z.gif",
+        "https://nekocdn.com/images/U_51xEuO.gif",
+        "https://nekocdn.com/images/Vvf2FjCm.gif",
+        "https://nekocdn.com/images/69IHcguv.gif",
+        "https://nekocdn.com/images/wCogSYL2.gif",
+        "https://nekocdn.com/images/J7gB6BSi.gif",
+        "https://nekocdn.com/images/Vv-YXNc-.gif",
+        "https://nekocdn.com/images/_IjiTuQw.gif",
+        "https://nekocdn.com/images/WWSx5Ry5.gif",
+        "https://nekocdn.com/images/gR57IORZ.gif",
+        "https://nekocdn.com/images/6bwZU_VP.gif"
+    ]},
+    "sip": {
+        "msg": "{{user}} esta bebiendo",
+        "gifs": [
+        "https://nekocdn.com/images/7nKQPFiE.gif",
+        "https://nekocdn.com/images/lDxvyJFl.gif"
+    ]},
+    "cuddle": {
+        "msgTarget": "{{user}} se acurruco con {{target}}",
+        "gifs": [
+        "https://nekocdn.com/images/Pvu0Sn_XY.gif",
+        "https://nekocdn.com/images/mSQmYgkJ.gif"
+    ]},
+    "fbi": {
+        "msg": "FBI OPEN UP!",
+        "gifs": [
+        "https://nekocdn.com/images/VSk7pCP5.gif",
+        "https://nekocdn.com/images/YaMTyiwe.gif",
+        "https://nekocdn.com/images/R-hM81zx.gif",
+        "https://nekocdn.com/images/W_Vmi4VN.gif",
+        "https://nekocdn.com/images/rTSWnkN-.gif"
+    ]},
+    "dance": {
+        "msg": "{{user}} esta bailando",
+        "gifs": [
+        "https://nekocdn.com/images/t2qCnv8j.gif",
+        "https://nekocdn.com/images/AqILo1mf.gif",
+        "https://nekocdn.com/images/po1uH9tL.gif",
+        "https://nekocdn.com/images/qpucmFvEr.gif",
+        "https://nekocdn.com/images/js2SzE6P.gif",
+        "https://nekocdn.com/images/ULrc3SWX.gif",
+        "https://nekocdn.com/images/w0qx0xf1.gif",
+        "https://nekocdn.com/images/7wLAPB0E.gif",
+        "https://nekocdn.com/images/6hQj4jYN.gif",
+        "https://nekocdn.com/images/2rzbjNfs.gif",
+        "https://nekocdn.com/images/7GWP2R6f.gif",
+        "https://nekocdn.com/images/8q0YGqk_.gif",
+        "https://nekocdn.com/images/PTM-xlM1.gif"
+    ]},
+    "angry": {
+        "msg": "{{user}} se enfadó >:c",
+        "msgTarget": "{{user}} se enfadó con {{target}}",
+        "gifs": [
+        "https://nekocdn.com/images/Yi28c6XO.gif",
+        "https://nekocdn.com/images/VrsZ2dIT.gif",
+        "https://nekocdn.com/images/oVehY1S-B.gif",
+        "https://nekocdn.com/images/h9Kbitj_.gif",
+        "https://nekocdn.com/images/3oxK-0bJs.gif",
+        "https://nekocdn.com/images/uOHIfxDs.gif",
+        "https://nekocdn.com/images/2T5MtYMx.gif"
+    ]},
+    "pat": {
+        "msgTarget": "{{user}} acaricio a {{target}}",
+        "gifs": [
+        "https://nekocdn.com/images/M3VvvcA-.gif",
+        "https://nekocdn.com/images/c568NhuCt.gif",
+        "https://nekocdn.com/images/mZlTWdr_.gif",
+        "https://nekocdn.com/images/AEcgQHp3.gif",
+        "https://nekocdn.com/images/guNtZS56B.gif",
+        "https://nekocdn.com/images/oCx5gKhH.gif",
+        "https://nekocdn.com/images/diT1JfBO.gif",
+        "https://nekocdn.com/images/ACrnjzLY.gif",
+        "https://nekocdn.com/images/u_Utr-Tx.gif",
+        "https://nekocdn.com/images/ntqdMkbq.gif",
+        "https://nekocdn.com/images/-6yDsLjD.gif",
+        "https://nekocdn.com/images/M3VvvcA-.gif",
+        "https://nekocdn.com/images/FEofKGfP.gif",
+        "https://nekocdn.com/images/CZVvF_Qz.gif",
+        "https://nekocdn.com/images/QBuiD5Fk.gif",
+        "https://nekocdn.com/images/jMdGu0-U.gif",
+        "https://nekocdn.com/images/yxwpu_Uo.gif"
+    ]},
+    "sleep": {
+        "msg": "{{user}} se fue a mimir o tiene sueño",
+        "msgTarget": "{{user}} se fue a mimir con {{target}}",
+        "gifs": [
+            "https://nekocdn.com/images/zqTqeXjO.gif",
+            "https://nekocdn.com/images/2WFU2kNk.gif",
+            "https://nekocdn.com/images/4bRwUR_n.gif",
+            "https://nekocdn.com/images/-H8-ZA4n.gif",
+            "https://nekocdn.com/images/CnJqAFUx.gif",
+            "https://nekocdn.com/images/rkYdIni0.gif",
+            "https://nekocdn.com/images/JSie59sk.gif",
+            "https://nekocdn.com/images/T2fB-K4z.gif",
+            "https://nekocdn.com/images/7Nftug5q.gif",
+            "https://nekocdn.com/images/Y4_zbL2j.gif",
+            "https://nekocdn.com/images/v_z0NyPx.gif",
+            "https://nekocdn.com/images/LMfW0zqg.gif",
+            "https://nekocdn.com/images/4u82XqDl.gif",
+            "https://nekocdn.com/images/Qh5giRZN.gif",
+            "https://nekocdn.com/images/g0-4u0Dtr.gif",
+            "https://nekocdn.com/images/0Tx-SMhJ.gif"
+        ]
+    },
+    "boom": {
+        "msg": "{{user}} hizo boom D:",
+        "gifs": [
+            "https://nekocdn.com/images/q9ApeNrOx.gif",
+            "https://nekocdn.com/images/7HGGGdUM.gif",
+            "https://nekocdn.com/images/8C4o_htx.gif",
+            "https://nekocdn.com/images/_pQlt-zO.gif",
+            "https://nekocdn.com/images/3ygwot2S.gif",
+            "https://nekocdn.com/images/jbAuLXyK.gif",
+            "https://nekocdn.com/images/BlMz3ATi.gif"
+        ]
+    }
+}

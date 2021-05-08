@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> -->
+    <meta http-equiv="Content-Security-Policy" content="
+    default-src *;
+    style-src 'self' 'unsafe-inline' fonts.googleapis.com; 
+    script-src * 'self' 'unsafe-inline' 'unsafe-eval';
+    img-src * 'self' 'unsafe-inline' nekocdn.com;
+    connect-src * ;">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="main.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+
+        #inner {
+            display: flex;
+            justify-content: center;
+            width: 100vw;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        #reaction {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            height: 100%;
+            width: 100%;
+        }
+
+        #reaction img {
+            width: auto;
+            height: 90%;
+            margin: 0 auto;
+        }
+
+        #reaction p {
+            font-size: 30px;
+            font-weight: 600;
+            font-family: 'Inter', sans-serif;
+            color: white;
+            text-align: center;
+        }
+        .fadeInClass {
+            animation: fadeIn linear 0.5s;
+            -webkit-animation: fadeIn linear 0.5s;
+            -moz-animation: fadeIn linear 0.5s;
+            -o-animation: fadeIn linear 0.5s;
+            -ms-animation: fadeIn linear 0.5s;
+        }
+        .fadeOutClass {
+            animation: fadeOut linear 0.5s;
+            -webkit-animation: fadeOut linear 0.5s;
+            -moz-animation: fadeOut linear 0.5s;
+            -o-animation: fadeOut linear 0.5s;
+            -ms-animation: fadeOut linear 0.5s;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+        @-moz-keyframes fadeIn {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-webkit-keyframes fadeIn {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-o-keyframes fadeIn {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-ms-keyframes fadeIn {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+        @-moz-keyframes fadeOut {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-webkit-keyframes fadeOut {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-o-keyframes fadeOut {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @-ms-keyframes fadeOut {
+        0% {opacity:0;}
+        100% {opacity:1;}
+        }
+
+        @keyframes fadeOut {
+            0% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <div id="inner">
+        <!-- media -->
+        <!-- <img src="https://i.pinimg.com/originals/88/84/c5/8884c5bcc0a7c0ecc1f1655d8959356f.gif">
+        <p>dinojoaco saluda a dinojoaco</p> -->
+    </div>
+</body>
+
+</html>
