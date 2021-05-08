@@ -1,7 +1,7 @@
 {
-  "name": "dinotina",
-  "version": "1.0.0",
-  "description": "Action and Reaction Overlay with Twitch chat integration",
+  "name": "reaction-bot",
+  "version": "0.1.0",
+  "description": "Reaction Overlay with Twitch chat integration",
   "main": "main.js",
   "bin": "main.js",
   "scripts": {
@@ -52,7 +52,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "dinotina"
+            "name": "reaction-bot"
           }
         },
         {
@@ -73,7 +73,7 @@
     }
   },
   "build": {
-    "appId": "dinojoaco.dinatina",
+    "appId": "com.github.JoacoMD.reaction-bot",
     "win": {
       "target": "portable"
     },
