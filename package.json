@@ -1,7 +1,7 @@
 {
-  "name": "reaction-bot",
+  "name": "reaction-twitch-bot",
   "version": "0.1.0",
-  "description": "Reaction Overlay with Twitch chat integration",
+  "description": "Reaction overlay for OBS with Twitch chat integration",
   "main": "main.js",
   "bin": "main.js",
   "scripts": {
@@ -52,7 +52,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "reaction-bot"
+            "name": "reaction-twitch-bot"
           }
         },
         {
@@ -73,7 +73,7 @@
     }
   },
   "build": {
-    "appId": "com.github.JoacoMD.reaction-bot",
+    "appId": "com.github.JoacoMD.reaction-twitch-bot",
     "win": {
       "target": "portable"
     },
