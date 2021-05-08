@@ -76,7 +76,12 @@
   "build": {
     "appId": "com.github.JoacoMD.reaction-twitch-bot",
     "win": {
-      "target": "portable"
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64", "ia32"]
+        }
+    ]
     },
     "extraResources": [
       {
