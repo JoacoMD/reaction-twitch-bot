@@ -26,14 +26,10 @@
   "author": "dinojoaco",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
     "electron-squirrel-startup": "^1.0.0",
     "express": "^4.17.1",
-    "express-csp-header": "^4.1.0",
-    "morgan": "^1.10.0",
     "nodemon": "^2.0.7",
     "preferences": "^2.0.2",
-    "rxjs": "^7.0.0",
     "socket.io": "^4.0.1",
     "tmi.js": "^1.8.3"
   },
@@ -79,9 +75,12 @@
       "target": [
         {
           "target": "portable",
-          "arch": ["x64", "ia32"]
+          "arch": [
+            "x64",
+            "ia32"
+          ]
         }
-    ]
+      ]
     },
     "extraResources": [
       {
