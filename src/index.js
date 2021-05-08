@@ -10,7 +10,7 @@ const reactions = require('./reactions');
 
 app.set('port', 8080);
 app.use(express.static(path.join(process.resourcesPath, 'public')));
-// app.use(express.static('public')); use with 'npm run start'
+// app.use(express.static('public')); // use with 'npm run start'
 app.get("/favicon.ico", (req, res) => {
     res.sendFile(path.resolve(process.resourcesPath, "public/favicon.ico"));
 })

@@ -1,5 +1,12 @@
 const ipc = require('electron').ipcRenderer;
-// const twitch = require('./bot')
+
+ipc.send('connection-variable-request');
+
+ipc.on('connection-data-recived', (event, prefs) => {
+    document.getElementById('username').value = prefs.username ? prefs.username : ''; 
+    document.getElementById('password').value = prefs.password ? prefs.password : '';
+    document.getElementById('channel').value = prefs.channel ? prefs.channel : '';
+});
 
 var button = document.getElementById('connect-button');
 
@@ -9,7 +16,6 @@ button.addEventListener('click', () => {
     const password = document.getElementById('password').value;
     const channel = document.getElementById('channel').value;
 
-    // twitch.setConnection(username, password, channel);
     ipc.send('connect-bot', {username, password, channel})
 })
 
